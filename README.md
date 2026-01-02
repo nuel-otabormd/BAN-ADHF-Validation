@@ -3,6 +3,7 @@
 [![MIMIC-IV](https://img.shields.io/badge/MIMIC--IV-v3.1-blue)](https://physionet.org/content/mimiciv/3.1/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TRIPOD](https://img.shields.io/badge/Reporting-TRIPOD%2BAI-green)](https://www.tripod-statement.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18124056.svg)](https://doi.org/10.5281/zenodo.18124056)
 
 ## Overview
 
@@ -161,14 +162,14 @@ This study follows:
 If you use this code, please cite:
 
 ```bibtex
-@article{otabor2025banadhf,
-  title={External Validation of the BAN-ADHF Score for Predicting Diuretic 
-         Efficiency in Critically Ill ICU Patients with Acute Decompensated 
-         Heart Failure},
-  author={Otabor, Emmanuel and Lo, Kevin B and others},
-  journal={Journal of Cardiac Failure},
-  year={2025},
-  note={Manuscript under review}
+@software{otabor2025banadhf_code,
+  author       = {Otabor, Emmanuel and Lo, Kevin B},
+  title        = {{External Validation of the BAN-ADHF Score in Critically 
+                   Ill Patients with Acute Decompensated Heart Failure}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18124056},
+  url          = {https://doi.org/10.5281/zenodo.18124056}
 }
 ```
 
